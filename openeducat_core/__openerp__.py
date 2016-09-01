@@ -86,7 +86,7 @@
         'static/description/openeducat_core_banner.jpg',
     ],
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
     'application': True,
 }
 
