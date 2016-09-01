@@ -63,7 +63,7 @@
         'static/description/openeducat_erp_banner.jpg',
     ],
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
     'application': True,
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
